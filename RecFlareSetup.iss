@@ -52,8 +52,8 @@ const
   PatchURL = 'https://github.com/recflare/patch-2026/releases/download/' + PatchVersion + '/2026Patch-' + PatchVersion + '-x64.zip';
   { Points the client at the RecFlare server; to use your own instance, fork and
     change these, then rebuild the installer (see README "Custom server"). }
-  ApiHost = 'https://ns.recflare.net';
-  ServerDomain = 'recflare.net';
+  ApiHost = 'https://ns.blazenetwork.fun';
+  ServerDomain = 'www.blazenetwork.fun';
   VoiceKeyXml = '<RSAKeyValue><Modulus>nu7lFZqLX+siEI2U8/JihESmm4JrBVLsCHdS8NoAipq2NdJqVouOHQoxtFfJTG6u/+kx4wocnsQ1Ydk5AISyy0GQeweQOTLKlkXsR6on/DL7LqKWxWp3M+MG4kkyZROWh2OELCAudC902p8VSaXmEyH8i1Sid9YiKe0FaNsyzWE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue>';
 
 var
